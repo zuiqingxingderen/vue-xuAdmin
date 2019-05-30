@@ -1,113 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a9835fd-ab8f-45b0-854d-0e4a3f0246d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/css/app.c9ac944aa47ab861ea9e1a592945e7d9.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/0.a0770adcec9fb1c7f373.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/1.2228238d84d5236a8720.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/1.2228238d84d5236a8720.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/10.90a682b9a86bf57c5e08.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/10.90a682b9a86bf57c5e08.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/11.f818f6bd6a44ad0a701d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/11.f818f6bd6a44ad0a701d.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/12.fae98b270aa8d49cc7b3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/12.fae98b270aa8d49cc7b3.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/13.0c44804c4eff77f70797.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/13.0c44804c4eff77f70797.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/14.47a9617f9343569a290b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/14.47a9617f9343569a290b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/15.5da0581bd5c97c03d678.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/16.704e617262c7e393d786.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/16.704e617262c7e393d786.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/17.1fb492c4ab90282f9c79.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/17.1fb492c4ab90282f9c79.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/18.b071378670f4087d8b40.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/18.b071378670f4087d8b40.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/19.68611539e52cac367bac.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/19.68611539e52cac367bac.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/2.9a8b27b93657af6decfe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/2.9a8b27b93657af6decfe.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/4.d7e0897bdb9bbb2a27da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/4.d7e0897bdb9bbb2a27da.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/5.74c336a88840142e3649.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/6.251a41f91926e87ea774.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/6.251a41f91926e87ea774.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/7.82e8975c6e742db31d91.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/7.82e8975c6e742db31d91.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/8.b72111c921bd0f8908b3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/8.b72111c921bd0f8908b3.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/9.72499b4877a7530b979a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/9.72499b4877a7530b979a.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/app.c18387d0c5ea119cfe04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/app.c18387d0c5ea119cfe04.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/static/js/manifest.b14a6c36bb1f29714483.js" afterDir="false" />
+    <list default="true" id="0a9835fd-ab8f-45b0-854d-0e4a3f0246d5" name="Default Changelist" comment="添加项目服务管理">
+      <change afterPath="D:/X-SpringBoot/x-springboot (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.adbe5cb863868e0162107cfc32eed0db.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/css/app.c9ac944aa47ab861ea9e1a592945e7d9.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.adbe5cb863868e0162107cfc32eed0db.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/img/iconfont.ba161ba.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/img/iconfont.dd8285f.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.03d8d50ae05c74d6d449.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/0.a0770adcec9fb1c7f373.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.03d8d50ae05c74d6d449.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.3bde148a807a2470ecb6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.3bde148a807a2470ecb6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/10.c1d651c55171dbf04cdf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/10.c1d651c55171dbf04cdf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/11.d514b28177d9dbf4dd16.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/11.d514b28177d9dbf4dd16.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/12.4032c1e7efc3717b8a56.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/12.4032c1e7efc3717b8a56.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/13.c64dc75e7ed1687aa272.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/13.c64dc75e7ed1687aa272.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/14.8440e8b78b84a0c3e3d4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/14.8440e8b78b84a0c3e3d4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/15.b9147e5b11e518ecdc09.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/15.5da0581bd5c97c03d678.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/15.b9147e5b11e518ecdc09.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/16.13b9d15950458444b1b4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/16.13b9d15950458444b1b4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/17.1851caba4cdfebcf6ae6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/17.1851caba4cdfebcf6ae6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/18.5835c5330d16805a21bf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/18.5835c5330d16805a21bf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/19.7c5ddd90935ef311643c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/19.7c5ddd90935ef311643c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.d83ebec68528193dd871.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.d83ebec68528193dd871.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.ba8330e2bd738c464440.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.ba8330e2bd738c464440.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.fcb8553daac0b89eaadd.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/3.59eacd122894bb735072.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.fcb8553daac0b89eaadd.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/3.59eacd122894bb735072.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.cbf56b1aefabc90b2d45.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/5.74c336a88840142e3649.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.cbf56b1aefabc90b2d45.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/6.fa9d41f70112b8315262.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/6.fa9d41f70112b8315262.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/7.7ef2f9773493e4ccf07a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/7.7ef2f9773493e4ccf07a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/8.fb0860c23d8aecc124ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/8.fb0860c23d8aecc124ef.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/9.095193998130591d0c37.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/9.095193998130591d0c37.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.ccf3d7a347609148ad3c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.ccf3d7a347609148ad3c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.0ca6f47ece8ef6ba80c9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.0ca6f47ece8ef6ba80c9.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/manifest.b14a6c36bb1f29714483.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/layout/aside/aside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout/aside/aside.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/app.c9ac944aa47ab861ea9e1a592945e7d9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/app.c9ac944aa47ab861ea9e1a592945e7d9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/img/fontawesome-webfont.912ec66.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/img/fontawesome-webfont.912ec66.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/0.a0770adcec9fb1c7f373.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/0.a0770adcec9fb1c7f373.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/1.2228238d84d5236a8720.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/1.2228238d84d5236a8720.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/10.90a682b9a86bf57c5e08.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/10.90a682b9a86bf57c5e08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/11.f818f6bd6a44ad0a701d.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/11.f818f6bd6a44ad0a701d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/12.fae98b270aa8d49cc7b3.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/12.fae98b270aa8d49cc7b3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/13.0c44804c4eff77f70797.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/13.0c44804c4eff77f70797.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/14.47a9617f9343569a290b.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/14.47a9617f9343569a290b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/15.5da0581bd5c97c03d678.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/15.5da0581bd5c97c03d678.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/16.704e617262c7e393d786.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/16.704e617262c7e393d786.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/17.1fb492c4ab90282f9c79.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/17.1fb492c4ab90282f9c79.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/18.b071378670f4087d8b40.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/18.b071378670f4087d8b40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/19.68611539e52cac367bac.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/19.68611539e52cac367bac.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/2.9a8b27b93657af6decfe.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/2.9a8b27b93657af6decfe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/3.59eacd122894bb735072.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/3.59eacd122894bb735072.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/4.d7e0897bdb9bbb2a27da.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/4.d7e0897bdb9bbb2a27da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/5.74c336a88840142e3649.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/5.74c336a88840142e3649.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/6.251a41f91926e87ea774.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/6.251a41f91926e87ea774.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/7.82e8975c6e742db31d91.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/7.82e8975c6e742db31d91.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/8.b72111c921bd0f8908b3.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/8.b72111c921bd0f8908b3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/9.72499b4877a7530b979a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/9.72499b4877a7530b979a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/app.c18387d0c5ea119cfe04.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/app.c18387d0c5ea119cfe04.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.b14a6c36bb1f29714483.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.b14a6c36bb1f29714483.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.6c569533e81d92501246.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/vendor.6c569533e81d92501246.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../xu-webplatform/.tmp/" />
     <ignored path="$PROJECT_DIR$/../xu-webplatform/temp/" />
     <ignored path="$PROJECT_DIR$/../xu-webplatform/tmp/" />
+    <ignored path="$PROJECT_DIR$/../X-SpringBoot/target/" />
+    <ignored path="D:/X-SpringBoot/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1906012477">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="18" />
+          <entry key="java" value="23" />
+          <entry key="js" value="51" />
+          <entry key="txt" value="10" />
+          <entry key="vue" value="4" />
+          <entry key="yml" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="22" />
+          <entry key="JAVA" value="23" />
+          <entry key="JavaScript" value="51" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="YAML" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="2" />
+          <entry key="class" value="1" />
+          <entry key="css" value="4" />
+          <entry key="html" value="10" />
+          <entry key="java" value="37" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="7" />
+          <entry key="json" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="3" />
+          <entry key="vm" value="3" />
+          <entry key="xml" value="3" />
+          <entry key="yml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="10" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="37" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="7" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="1" />
+          <entry key="SQL" value="1" />
+          <entry key="VTL" value="3" />
+          <entry key="XML" value="3" />
+          <entry key="YAML" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vue-xuAdmin" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/views/layout/aside/aside.vue">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="94" column="35" lean-forward="true" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+            <state relative-caret-position="5355">
+              <caret line="153" column="50" selection-start-line="153" selection-start-column="37" selection-end-line="153" selection-end-column="50" />
+              <folding>
+                <element signature="e#1228#1234#0" expanded="true" />
+                <element signature="e#1377#1383#0" expanded="true" />
+                <element signature="e#1515#1521#0" expanded="true" />
+                <element signature="e#6013#6019#0" expanded="true" />
+                <element signature="e#6019#6025#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="121" column="49" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -117,17 +198,77 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>#5e6d82</find>
+      <find>app</find>
+      <find>vm</find>
+      <find>javaee-api</find>
+      <find>org.springframework.boot</find>
+      <find>导航菜单</find>
+      <find>用户ID</find>
+      <find>Arrays</find>
+      <find>tSystemConfigs</find>
+      <find>tsystemconfigs</find>
+      <find>sys:user:list</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/X-SpringBoot" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/views/layout/aside/aside.vue" />
+        <option value="$PROJECT_DIR$/../X-SpringBoot/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../X-SpringBoot/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/../X-SpringBoot/src/main/java/com/suke/czx/Application.java" />
+        <option value="D:/X-SpringBoot/src/main/resources/banner.txt" />
+        <option value="D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysConfigController.java" />
+        <option value="D:/X-SpringBoot/src/main/resources/application.yml" />
+        <option value="D:/X-SpringBoot/src/main/java/com/suke/czx/config/FilterConfig.java" />
+        <option value="D:/X-SpringBoot/src/main/resources/application-test.yml" />
+        <option value="D:/X-SpringBoot/x-springboot-ui/js/common.js" />
+        <option value="D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js" />
+        <option value="D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java" />
+        <option value="D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/softWare/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\softWare\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="x-springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="x-springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -135,28 +276,88 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-xuAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-xuAdmin" type="462c0819:PsiDirectoryNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-xuAdmin" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="czx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="czx" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="czx" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,10 +366,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559202037293" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/X-SpringBoot" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\X-SpringBoot\x-springboot-ui\js\modules\assets" />
+      <recent name="D:\X-SpringBoot\x-springboot-ui\modules\assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,6 +399,87 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="All in x-springboot (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="x-springboot (2)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="x-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suke.czx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suke.czx.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="x-springboot (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suke.czx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suke.czx.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dev" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build-X-SpringBoot" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="D:/X-SpringBoot/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.build-X-SpringBoot" />
+      <item itemvalue="npm.Dev" />
+      <item itemvalue="npm.Build" />
+      <item itemvalue="JUnit.All in x-springboot (2)" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.All in x-springboot (2)" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -195,72 +494,520 @@
       <workItem from="1555304824158" duration="1125000" />
       <workItem from="1555306926062" duration="849000" />
       <workItem from="1555582522672" duration="1058000" />
+      <workItem from="1559093548123" duration="302000" />
+      <workItem from="1559093868105" duration="2617000" />
+      <workItem from="1559108448868" duration="4294000" />
+      <workItem from="1559116953581" duration="1392000" />
+      <workItem from="1559119820422" duration="17853000" />
     </task>
+    <task id="LOCAL-00001" summary="添加项目服务管理">
+      <created>1559197476722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559197476722</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加项目服务管理">
+      <created>1559199994589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559199994589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3032000" />
+    <option name="totallyTimeSpent" value="29490000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2553305" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.4422658" side_tool="true" weight="0.26984978" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.5558441" visible="true" weight="0.27306867" />
+      <window_info id="Structure" order="2" sideWeight="0.4436937" side_tool="true" weight="0.27306867" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="npm" order="6" sideWeight="0.44415584" side_tool="true" weight="0.27306867" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Web" order="8" sideWeight="0.4436937" side_tool="true" weight="0.27306867" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297244" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" visible="true" weight="0.14650388" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34295228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3297244" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.27413985" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.42508325" />
       <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.10099889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="DB Browser" order="3" weight="0.32942432" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="打包前的左上角项目名字颜色" />
-    <option name="LAST_COMMIT_MESSAGE" value="打包前的左上角项目名字颜色" />
+    <MESSAGE value="添加项目服务管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加项目服务管理" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/views/upload/upload.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3537">
-          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/oss/cloud/AliyunCloudStorageService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/gen/controller/SysGenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/oss/controller/SysOssController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="119" column="44" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/service/SysConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/aspect/SysLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1435">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/entity/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/gen/service/impl/SysGenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/base/AbstractController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar!/lombok/AllArgsConstructor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/config/FilterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/application-pro.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="196" column="49" selection-start-line="196" selection-start-column="25" selection-end-line="196" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/service/impl/SysConfigServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/all-skins.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/bootstrap-table.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="167" selection-start-column="167" selection-end-column="167" />
+          <folding>
+            <element signature="e#1977#2275#2" expanded="true" />
+            <element signature="e#2330#2573#2" expanded="true" />
+            <element signature="e#2629#2868#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/layout/aside/aside.vue">
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="94" column="35" lean-forward="true" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+        <state relative-caret-position="319">
+          <caret line="150" column="56" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="56" />
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/oss/oss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3150" />
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/config.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366" />
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/apkversion/apkversion.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/template/Mapper.java.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/template/Entity.java.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/template/Controller.java.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/assets/tsystemconfigs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="52" selection-end-line="133" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/entity/TSystemConfigs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/service/impl/TSystemConfigsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/mapper/TSystemConfigsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/softWare/jdk/jdk1.8.0_74/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/apkversion/controller/ApkVersionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1206">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/service/TSystemConfigsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5355">
+          <caret line="153" column="50" selection-start-line="153" selection-start-column="37" selection-end-line="153" selection-end-column="50" />
+          <folding>
+            <element signature="e#1228#1234#0" expanded="true" />
+            <element signature="e#1377#1383#0" expanded="true" />
+            <element signature="e#1515#1521#0" expanded="true" />
+            <element signature="e#6013#6019#0" expanded="true" />
+            <element signature="e#6019#6025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="121" column="49" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>x-springboot (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.baomidou:mybatis-plus:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vue-xuAdmin.iml" filepath="$PROJECT_DIR$/.idea/vue-xuAdmin.iml" />
+      <module fileurl="file://D:/X-SpringBoot/x-springboot (2).iml" filepath="D:/X-SpringBoot/x-springboot (2).iml" />
     </modules>
   </component>
 </project>
