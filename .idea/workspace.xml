@@ -1,48 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a9835fd-ab8f-45b0-854d-0e4a3f0246d5" name="Default Changelist" comment="添加项目服务管理">
-      <change afterPath="D:/X-SpringBoot/x-springboot (2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0a9835fd-ab8f-45b0-854d-0e4a3f0246d5" name="Default Changelist" comment="">
+      <change afterPath="D:/X-SpringBoot/src/main/resources/mapper/assets/TSystemConfigsmapper.xml" afterDir="false" />
+      <change beforePath="D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js" beforeDir="false" afterPath="D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js" afterDir="false" />
+      <change beforePath="D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html" beforeDir="false" afterPath="D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.c9ac944aa47ab861ea9e1a592945e7d9.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.c9ac944aa47ab861ea9e1a592945e7d9.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/img/fontawesome-webfont.912ec66.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/img/fontawesome-webfont.912ec66.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.a0770adcec9fb1c7f373.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/0.a0770adcec9fb1c7f373.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.2228238d84d5236a8720.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/1.2228238d84d5236a8720.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/10.90a682b9a86bf57c5e08.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/10.90a682b9a86bf57c5e08.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/11.f818f6bd6a44ad0a701d.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/11.f818f6bd6a44ad0a701d.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/12.fae98b270aa8d49cc7b3.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/12.fae98b270aa8d49cc7b3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/13.0c44804c4eff77f70797.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/13.0c44804c4eff77f70797.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/14.47a9617f9343569a290b.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/14.47a9617f9343569a290b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/15.5da0581bd5c97c03d678.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/15.5da0581bd5c97c03d678.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/16.704e617262c7e393d786.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/16.704e617262c7e393d786.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/17.1fb492c4ab90282f9c79.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/17.1fb492c4ab90282f9c79.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/18.b071378670f4087d8b40.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/18.b071378670f4087d8b40.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/19.68611539e52cac367bac.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/19.68611539e52cac367bac.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.9a8b27b93657af6decfe.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/2.9a8b27b93657af6decfe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.59eacd122894bb735072.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.59eacd122894bb735072.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.d7e0897bdb9bbb2a27da.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/4.d7e0897bdb9bbb2a27da.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.74c336a88840142e3649.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/5.74c336a88840142e3649.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/6.251a41f91926e87ea774.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/6.251a41f91926e87ea774.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/7.82e8975c6e742db31d91.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/7.82e8975c6e742db31d91.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/8.b72111c921bd0f8908b3.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/8.b72111c921bd0f8908b3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/9.72499b4877a7530b979a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/9.72499b4877a7530b979a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.c18387d0c5ea119cfe04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.c18387d0c5ea119cfe04.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.b14a6c36bb1f29714483.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.b14a6c36bb1f29714483.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.6c569533e81d92501246.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/vendor.6c569533e81d92501246.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../xu-webplatform/.tmp/" />
     <ignored path="$PROJECT_DIR$/../xu-webplatform/temp/" />
@@ -70,9 +33,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="18" />
-          <entry key="java" value="23" />
-          <entry key="js" value="51" />
+          <entry key="html" value="34" />
+          <entry key="java" value="42" />
+          <entry key="js" value="185" />
           <entry key="txt" value="10" />
           <entry key="vue" value="4" />
           <entry key="yml" value="59" />
@@ -80,9 +43,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="22" />
-          <entry key="JAVA" value="23" />
-          <entry key="JavaScript" value="51" />
+          <entry key="HTML" value="38" />
+          <entry key="JAVA" value="42" />
+          <entry key="JavaScript" value="185" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="YAML" value="59" />
         </counts>
@@ -90,35 +53,37 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="2" />
-          <entry key="class" value="1" />
+          <entry key="class" value="12" />
           <entry key="css" value="4" />
-          <entry key="html" value="10" />
-          <entry key="java" value="37" />
+          <entry key="html" value="17" />
+          <entry key="java" value="61" />
           <entry key="jpg" value="3" />
-          <entry key="js" value="7" />
+          <entry key="js" value="12" />
           <entry key="json" value="1" />
           <entry key="properties" value="1" />
           <entry key="sql" value="1" />
+          <entry key="ts" value="1" />
           <entry key="txt" value="3" />
-          <entry key="vm" value="3" />
-          <entry key="xml" value="3" />
+          <entry key="vm" value="4" />
+          <entry key="xml" value="28" />
           <entry key="yml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="12" />
           <entry key="CSS" value="4" />
-          <entry key="HTML" value="10" />
+          <entry key="HTML" value="17" />
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="61" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="7" />
+          <entry key="JavaScript" value="12" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="1" />
           <entry key="SQL" value="1" />
-          <entry key="VTL" value="3" />
-          <entry key="XML" value="3" />
+          <entry key="TypeScript" value="1" />
+          <entry key="VTL" value="4" />
+          <entry key="XML" value="28" />
           <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
@@ -129,54 +94,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5355">
-              <caret line="153" column="50" selection-start-line="153" selection-start-column="37" selection-end-line="153" selection-end-column="50" />
-              <folding>
-                <element signature="e#1228#1234#0" expanded="true" />
-                <element signature="e#1377#1383#0" expanded="true" />
-                <element signature="e#1515#1521#0" expanded="true" />
-                <element signature="e#6013#6019#0" expanded="true" />
-                <element signature="e#6019#6025#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="121" column="49" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="49" />
+            <state relative-caret-position="493">
+              <caret line="58" column="6" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/user.html">
+        <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+            <state relative-caret-position="216">
+              <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/user.js">
+        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="315">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java">
+        <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="140">
+              <caret line="97" column="61" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysConfigController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="43" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,10 +143,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/Application.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="140">
+              <caret line="71" column="13" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="248" column="37" selection-start-line="248" selection-start-column="31" selection-end-line="248" selection-end-column="41" />
+              <folding>
+                <element signature="e#9085#9086#0" expanded="true" />
+                <element signature="e#9138#9139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#1537#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/conditions/query/QueryWrapper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-840">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1545#1561#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,7 +208,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>#5e6d82</find>
-      <find>app</find>
       <find>vm</find>
       <find>javaee-api</find>
       <find>org.springframework.boot</find>
@@ -208,6 +217,15 @@
       <find>tSystemConfigs</find>
       <find>tsystemconfigs</find>
       <find>sys:user:list</find>
+      <find>v-model</find>
+      <find>app</find>
+      <find>setGridParam</find>
+      <find>reloadGrid</find>
+      <find>reload</find>
+      <find>&quot;reloadGrid</find>
+      <find>getGridParam</find>
+      <find>GridParam</find>
+      <find>name</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,8 +244,8 @@
         <option value="D:/X-SpringBoot/src/main/java/com/suke/czx/config/FilterConfig.java" />
         <option value="D:/X-SpringBoot/src/main/resources/application-test.yml" />
         <option value="D:/X-SpringBoot/x-springboot-ui/js/common.js" />
-        <option value="D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js" />
         <option value="D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java" />
+        <option value="D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js" />
         <option value="D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html" />
       </list>
     </option>
@@ -312,45 +330,20 @@
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="czx" type="462c0819:PsiDirectoryNode" />
+              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="czx" type="462c0819:PsiDirectoryNode" />
+              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
               <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="czx" type="462c0819:PsiDirectoryNode" />
+              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="X-SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="x-springboot-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-xuAdmin" type="b2602c69:ProjectViewProjectNode" />
@@ -373,17 +366,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559202037293" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559268394127" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="D:/X-SpringBoot" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\X-SpringBoot\src\main\resources\mapper\assets" />
       <recent name="D:\X-SpringBoot\x-springboot-ui\js\modules\assets" />
       <recent name="D:\X-SpringBoot\x-springboot-ui\modules\assets" />
     </key>
@@ -498,7 +492,7 @@
       <workItem from="1559093868105" duration="2617000" />
       <workItem from="1559108448868" duration="4294000" />
       <workItem from="1559116953581" duration="1392000" />
-      <workItem from="1559119820422" duration="17853000" />
+      <workItem from="1559119820422" duration="30142000" />
     </task>
     <task id="LOCAL-00001" summary="添加项目服务管理">
       <created>1559197476722</created>
@@ -514,11 +508,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559199994589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加项目服务管理">
+      <created>1559202474454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559202474454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29490000" />
+    <option name="totallyTimeSpent" value="41779000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -531,6 +532,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.4422658" side_tool="true" weight="0.26984978" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.5558441" visible="true" weight="0.27306867" />
@@ -542,9 +544,9 @@
       <window_info id="Image Layers" order="7" />
       <window_info id="Web" order="8" sideWeight="0.4436937" side_tool="true" weight="0.27306867" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" visible="true" weight="0.14650388" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34295228" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18423973" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" visible="true" weight="0.22197558" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55049944" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
@@ -587,213 +589,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/oss/cloud/AliyunCloudStorageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/gen/controller/SysGenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/oss/controller/SysOssController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysLoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3255">
-          <caret line="119" column="44" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/service/SysConfigService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysUserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/aspect/SysLogAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1435">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysLogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/entity/SysLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysMenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/gen/service/impl/SysGenServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/base/AbstractController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar!/lombok/AllArgsConstructor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysConfigController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/resources/banner.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/config/FilterConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/resources/application-pro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="196" column="49" selection-start-line="196" selection-start-column="25" selection-end-line="196" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/service/impl/SysConfigServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#1657#1668#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/resources/application-test.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/AdminLTE.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/all-skins.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/css/bootstrap-table.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#1977#2275#2" expanded="true" />
-            <element signature="e#2330#2573#2" expanded="true" />
-            <element signature="e#2629#2868#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="150" column="56" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/oss/oss.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3150" />
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/config.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-366" />
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/apkversion/apkversion.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/resources/template/Mapper.java.vm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://D:/X-SpringBoot/src/main/resources/template/Entity.java.vm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -819,20 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/service/impl/TSystemConfigsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/mapper/TSystemConfigsMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -864,62 +645,311 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="1160">
+          <caret line="9400" column="4" selection-start-line="9400" selection-start-column="4" selection-end-line="9400" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="27" column="93" selection-start-line="27" selection-start-column="93" selection-end-line="27" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/plugins/jqgrid/jquery.jqGrid.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="318" column="118" selection-start-line="318" selection-start-column="118" selection-end-line="318" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/template/Mapper.xml.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/mapper/TSystemConfigsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/service/impl/TSystemConfigsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/metadata/IPage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1259">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/utils/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/apkversion/ApkVersionmapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/mapper/SysConfigMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/utils/MPPageConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="74" column="31" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/service/TSystemConfigsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="385">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/Application.java">
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysUserTokenMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysUserRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysRoleMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysMenuMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="52" />
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/user.html">
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/sys/SysConfigMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+        <state relative-caret-position="70">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/user.js">
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/assets/TSystemConfigsmapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/gen/SysGenMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/sys/config.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#1455#1461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/sys/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="97" column="61" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/common/base/AbstractController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/entity/SysUserToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/service/impl/SysUserTokenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="129" column="45" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/mgt/AuthorizingSecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/resources/mapper/oss/SysOssMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/service/SysUserTokenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/assets/controller/TSystemConfigsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1545#1561#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://D:/X-SpringBoot/x-springboot-ui/modules/assets/projectBelong.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5355">
-          <caret line="153" column="50" selection-start-line="153" selection-start-column="37" selection-end-line="153" selection-end-column="50" />
+        <state relative-caret-position="216">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/conditions/AbstractWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
           <folding>
-            <element signature="e#1228#1234#0" expanded="true" />
-            <element signature="e#1377#1383#0" expanded="true" />
-            <element signature="e#1515#1521#0" expanded="true" />
-            <element signature="e#6013#6019#0" expanded="true" />
-            <element signature="e#6019#6025#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/conditions/query/QueryWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.0/mybatis-plus-extension-3.1.0.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="248" column="37" selection-start-line="248" selection-start-column="31" selection-end-line="248" selection-end-column="41" />
+          <folding>
+            <element signature="e#9085#9086#0" expanded="true" />
+            <element signature="e#9138#9139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.0/mybatis-plus-core-3.1.0.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#1537#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/X-SpringBoot/src/main/java/com/suke/czx/modules/sys/controller/SysConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://D:/X-SpringBoot/x-springboot-ui/js/modules/assets/projectBelong.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="121" column="49" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="49" />
+        <state relative-caret-position="493">
+          <caret line="58" column="6" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="6" />
         </state>
       </provider>
     </entry>
